@@ -74,6 +74,3 @@ n = 100 <br />
 nQ = 1000 <br />
 qS = 100 <br />
 nQS = 20 <br />
-
-### 4. DHT
-The details of implementation of DHT and parameters are explained in the report (Project_17_Report.pdf) section 3.5.
